@@ -38,6 +38,7 @@ Monday, Tuesday, Wednesday, and Thursday evening hours are 6:30-9:00 PM.
 
 **Important**: Be aware that the evening sessions can be very busy close to an assignment deadline.  Your best bet is to *start assignments early* and *ask questions early* to avoid the rush.
 <!--
+
 The evening tutors are:
 
 * Monday (6:30-8:30): Bill Taylor, Kaitlyn Graf, Jason Constantine
