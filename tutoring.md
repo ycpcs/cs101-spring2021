@@ -38,7 +38,8 @@ Monday, Tuesday, Wednesday, and Thursday evening hours are 6:30-9:00 PM.
 
 Please refer to the **Canvas Course** page for Zoom links.
 
-**Important**: Be aware that the evening sessions can be very busy close to an assignment deadline.  Your best bet is to *start assignments early* and *ask questions early* to avoid the rush.
+Please Note: Be aware that the evening sessions can be very busy close to an assignment deadline.  Your best bet is to *start assignments early* and *ask questions early* to avoid the rush.
+
 <!--
 
 The evening tutors are:
