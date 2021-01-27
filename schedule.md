@@ -33,7 +33,7 @@ Mar 30 | [Lecture 11: Multidimensional arrays](lectures/lecture11.html)<br>Chapt
 Apr 01 | [Lecture 12: Functions, top-down design](lectures/lecture12.html)<br>Chapter 7 through *Automatic Variables* | Week10 &rarr;  [PrintSum](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=825)\*, [Deep Thought](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=826)\*, [Find Primes](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=827)![gold star](img/goldstar-tiny.png) | &mdash;
 Apr 06 | **Exam 2 Review**
 Apr 08 | **Exam 2**
-Apr 13 | *Spring vacation, no class*
+Apr 13 | Catch up day | &mdash; | &mdash;
 Apr 15 | Catch up day | &mdash; | &mdash;
 Apr 20 | [Lecture 13: Functions that return a value](lectures/lecture13.html)<br>Chapter 7 through *Checking Function Arguments* | Week11 &rarr; [SumBetween](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=831)\*, [MaxOfThree](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=832)\*, [feetToMeters](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=849)\*, [inRange](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=850)\*, [ContainersNeeded](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=862), [WeeklyPay](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=863), [diamond](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=851)![gold star](img/goldstar-tiny.png), [check\_if\_armstrong](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=871)![gold star](img/goldstar-tiny.png) | 7.7
 Apr 22 | [Lecture 14: Arrays and functions](lectures/lecture14.html)<br>Chapter 7 through *Multidimensional Variable-Length Arrays and Functions* | Week12 &rarr; [ArraySum](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=828)\*, [IsAscending](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=830)\*, [countOdd](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=829)\*, [Min Array Entry](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=865) | &mdash;
@@ -41,7 +41,7 @@ Apr 27 | [Lecture 15: Pointers, reference parameters](lectures/lecture15.html)<b
 Apr 29 | [Lecture 16: Struct types](lectures/lecture16.html)<br>Chapter 8, through *Using Structures in Expressions*<br>[Lecture 17: Using structs with functions](lectures/lecture17.html)<br>Chapter 8, through *Initializing Structures* | Week14 &rarr; [find\_midpoint](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=879)\* | &mdash;
 May 04 | [Lecture 18: Pointers to structures](lectures/lecture18.html)<br>Chapter 10, *Working with Pointers and Structures* |  Week14 &rarr; [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=834)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=860)\* | &mdash;
 May 06 | [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Structures Containing Structures*<br>[Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
-May 11 | Exam review | &mdash; | &mdash;
+May 11 | **Exam review** | &mdash; | &mdash;
 May 13 | **Exam 3**
 
 <!-- vim:set wrap: -->
