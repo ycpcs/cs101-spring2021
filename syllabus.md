@@ -12,9 +12,9 @@ Instructor: <a href="http://faculty.ycp.edu/~kkambhampaty">Krishna Kambhampaty</
 
 Office Hours: Contact during below hours or by appointment
 
- Days     |  Time       | Room    
- -------- | --------    | ---------- 
- Mon/Wed  | 10:00-12:00 | Online 
+ Days         |  Time       | Room    
+ ------------ | --------    | ---------- 
+ Mon/Wed/Fri  | 10:00-12:00 | Online 
 
 
  Section  | Days     |  Time       | Room    | Final Exam

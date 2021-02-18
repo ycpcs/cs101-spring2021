@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 1: Freefalling"
 ---
 
-Design due: **Thursday, January 25th** at the beginning of class
+Design due: **Tuesday, February 23rd** at the beginning of class
 
-Program due: **Tuesday, Jan 30th by 11:59 PM**
+Program due: **Thursday, February 25th by 11:59 PM**
 
 Getting Started
 ===============
