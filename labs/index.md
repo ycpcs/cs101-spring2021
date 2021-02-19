@@ -10,9 +10,9 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must 
 > Date | Lab | File
 > ---- | --- | ----
 > Feb 12 | [Lab 1: Hello CS101!](lab01.html)         | [CS101\_Lab01.zip](CS101_Lab01.zip)
-> Feb 19 | [Lab 2: Expensive Calculator](lab02.html) | [CS101\_Lab02.zip](CS101_Lab02.zip)
-> Feb 24 | [Lab 3: Math Functions](lab03.html)       | n/a
-> Feb 26 | [Lab 4: Salary Calculator](lab04.html)    | [CS101\_Lab04.zip](CS101_Lab04.zip)
+> Feb 23 | [Lab 2: Expensive Calculator](lab02.html) | [CS101\_Lab02.zip](CS101_Lab02.zip)
+> Feb 27 | [Lab 3: Math Functions](lab03.html)       | n/a
+> Feb 28 | [Lab 4: Salary Calculator](lab04.html)    | [CS101\_Lab04.zip](CS101_Lab04.zip)
 > Mar 3  | [Lab 5: Animal Classifier](lab05.html)    | [CS101\_Lab05.zip](CS101_Lab05.zip)
 > Mar 11 | [Lab 7: For loops](lab07.html)            | n/a
 > Mar 17 | [Lab 8: Gone loopy](lab08.html)           | [CS101\_Lab08.zip](CS101_Lab08.zip)
