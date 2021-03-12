@@ -10,7 +10,7 @@ title: "Assignment 2: Let's Make A Deal"
     * Code due: **Friday, Mar 18th** by 11:59 PM
 * Milestone 2:
     * Design due: **Tuesday, Mar 23rd** in class
-    * Code due: **Friday, Mar 23rd** by 11:59 PM
+    * Code due: **Thursday, Mar 25th** by 11:59 PM
 
 Getting Started
 ===============

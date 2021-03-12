@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 3: Loop Exercises"
 ---
 
-Due: Monday, March 12th by 11:59 PM
+Due: Tuesday, March 30th by 11:59 PM
 
 <div class="callout">
 Note that late submissions will <em>not</em> be accepted for this assignment.

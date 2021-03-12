@@ -7,9 +7,9 @@ title: "Assignment 5: Snake"
 
 **Due dates**:
 
-Design artifacts due on **Thursday, April 26th**
+Design artifacts due on **Thurs, Apr 22nd**
 
-Code due on **Friday, May 4th**
+Code due on **Thurs, Apr 29th**
 
 # Getting Started
 
