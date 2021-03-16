@@ -7,7 +7,7 @@ title: "Assignment 2: Let's Make A Deal"
 
 * Milestone 1:
     * Design due: **Tuesday, Mar 16th** in class
-    * Code due: **Friday, Mar 18th** by 11:59 PM
+    * Code due: **Thursday, Mar 18th** by 11:59 PM
 * Milestone 2:
     * Design due: **Tuesday, Mar 23rd** in class
     * Code due: **Thursday, Mar 25th** by 11:59 PM
@@ -83,9 +83,9 @@ You got a goat, sorry. The car was behind door 2
 
 ### Deliverables for Milestone 1
 
-The [design artifact](../design-template.pdf) for Milestone 1 is due at the beginning class on **Tuesday, Feb 7th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
+The [design artifact](../design-template.pdf) for Milestone 1 is due at the beginning class on **Tuesday, Mar 16th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
 
-The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Friday, Feb 10th**.
+The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Thursday, Mar 18th**.
 
 ## Milestone 2
 
@@ -120,7 +120,7 @@ You won 66.67% of the games
 
 There are three deliverables for Milestone 2.
 
-**First deliverable**: The [design artifact](../design-template.pdf) for Milestone 2 is due in class on **Thursday, Feb 16th**.
+**First deliverable**: The [design artifact](../design-template.pdf) for Milestone 2 is due in class on **Tuesday, Mar 23rd**.
 
 **Second deliverable**: Modify the program to allow the player to play multiple times as described above.
 
@@ -135,7 +135,7 @@ For each strategy, play the game 20 times. What percentage of games did you win 
 
 Using Notepad++, create an empty document and write a brief summary of your findings. Save it as a file called **experiment.txt** in your **CS101\_Assign02** folder. In the report, indicate what percentage of games you won using each strategy. If one strategy seems to be better, state which one.
 
-Submit your code and report (the second and third deliverables) to Marmoset by running `make submit_ms2`.  They are due by the end of day on **Friday, Feb 24th**.
+Submit your code and report (the second and third deliverables) to Marmoset by running `make submit_ms2`.  They are due by the end of day on **Thursday, Mar 25th**.
 
 Hints
 -----
