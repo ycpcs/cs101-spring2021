@@ -14,10 +14,10 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must 
 > Feb 27 | [Lab 3: Math Functions](lab03.html)       | n/a
 > Mar 3 | [Lab 4: Salary Calculator](lab04.html)    | [CS101\_Lab04.zip](CS101_Lab04.zip)
 > Mar 16  | [Lab 5: Animal Classifier](lab05.html)    | [CS101\_Lab05.zip](CS101_Lab05.zip)
-> Mar 20 | [Lab 7: For loops](lab07.html)            | n/a
-> Mar 20 | [Lab 8: Gone loopy](lab08.html)           | [CS101\_Lab08.zip](CS101_Lab08.zip)
-> Mar 23 | [Lab 9: Bar Graph](lab09.html) <br /> [Lab 10: Fancy Rectangle](lab10.html) | [CS101\_Lab09.zip](CS101_Lab09.zip) <br /> [CS101\_Lab10.zip](CS101_Lab10.zip)
-> Mar 23 | **Optional** [Lab 11: Barn Door](lab11.html) | [CS101\_Lab11.zip](CS101_Lab11.zip)
+> Mar 24 | [Lab 7: For loops](lab07.html)            | n/a
+> Mar 25 | [Lab 8: Gone loopy](lab08.html)           | [CS101\_Lab08.zip](CS101_Lab08.zip)
+> Mar 27 | [Lab 9: Bar Graph](lab09.html) <br /> [Lab 10: Fancy Rectangle](lab10.html) | [CS101\_Lab09.zip](CS101_Lab09.zip) <br /> [CS101\_Lab10.zip](CS101_Lab10.zip)
+> Mar 28 | **Optional** [Lab 11: Barn Door](lab11.html) | [CS101\_Lab11.zip](CS101_Lab11.zip)
 > Mar 30| [Lab 12: Array Exercises](lab12.html) | n/a
 > Apr 5  | [Lab 12b: Sorting and Finding Median of an Array](lab12b.html) | [CS101\_Lab12b.zip](CS101_Lab12b.zip)
 > Apr 7  | **Optional** [Lab 13: Kitten Pictures](lab13.html) | [CS101\_Lab13.zip](CS101_Lab13.zip)
