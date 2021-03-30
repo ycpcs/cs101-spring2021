@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 3: Loop Exercises"
 ---
 
-Due: Tuesday, March 30th by 11:59 PM
+Due: Tuesday, April 6th by 11:59 PM
 
 <div class="callout">
 Note that late submissions will <em>not</em> be accepted for this assignment.
@@ -11,7 +11,7 @@ Note that late submissions will <em>not</em> be accepted for this assignment.
 
 # Your Task
 
-Your task for this assignment is to complete the following CloudCoder exercises.  We <em>strongly</em> recommend you do them in order.  The later exercises are (in general) more challenging than the earlier ones.
+Your task for this assignment is to complete the following CloudCoder exercises.  We <em>strongly</em> recommend you do them in order.  The later exercises are (in general) more challenging than the earlier ones. Please copy all of your code onto Word (one document for all the exercises) and upload it in Marmoset.
 
 <div class="callout">
 <b>Important</b>: Unlike the other assignments, this assignment is entirely individual.  You may <em>not</em> collaborate with or get help from other students.  You may ask an instructor or tutor for help.
