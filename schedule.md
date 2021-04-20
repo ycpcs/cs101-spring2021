@@ -39,11 +39,15 @@ Apr 20 | [Lecture 13: Functions that return a value](lectures/lecture13.html)<br
 Apr 22 | [Lecture 14: Arrays and functions](lectures/lecture14.html)<br>Chapter 7 through *Multidimensional Variable-Length Arrays and Functions* | Week12 &rarr; [ArraySum](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=828)\*, [IsAscending](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=830)\*, [countOdd](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=829)\*, [Min Array Entry](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=865) | &mdash;
 Apr 27 | [Lecture 15: Pointers, reference parameters](lectures/lecture15.html)<br>Chapter 10 through *Using Pointers in Expressions* | Week13 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=833)\* | &mdash;
 Apr 29 | [Lecture 16: Struct types](lectures/lecture16.html)<br>Chapter 8, through *Using Structures in Expressions*<br>[Lecture 17: Using structs with functions](lectures/lecture17.html)<br>Chapter 8, through *Initializing Structures* | Week14 &rarr; [find\_midpoint](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=879)\* | &mdash;
-May 04 | [Lecture 18: Pointers to structures](lectures/lecture18.html)<br>Chapter 10, *Working with Pointers and Structures* |  Week14 &rarr; [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=834)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=860)\* | &mdash;
-May 06 | [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Structures Containing Structures*<br>[Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
-May 11 | **Exam review** | &mdash; | &mdash;
-May 13 | **Exam 3**
+May 04 | [Lecture 18: Pointers to structures](lectures/lecture18.html)<br>Chapter 10, *Working with Pointers and Structures*<br>**Exam review** |  Week14 &rarr; [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=834)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=860)\* | &mdash;
+May 06 | **Exam 3**
 
+
+
+<!--
+
+May 06 | [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Structures Containing Structures*<br>[Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
+-->
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->
 <!-- vim:set nolist: -->
